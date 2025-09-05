@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DM_USB2CAN\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DM_USB2CAN\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DM_USB2CAN\\DM_USB2CAN.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DM_USB2CAN\\DM_USB2CAN.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DM_USB2CAN\\DM_USB2CAN.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DM_USB2CAN\\Form1.Designer.cs",
+              "ToolTip": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\Form1.Designer.cs",
+              "RelativeToolTip": "DM_USB2CAN\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:57:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\Form1.cs",
+              "RelativeDocumentMoniker": "DM_USB2CAN\\Form1.cs",
+              "ToolTip": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\Form1.cs",
+              "RelativeToolTip": "DM_USB2CAN\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:55:36.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DM_USB2CAN.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.dll",
+              "RelativeDocumentMoniker": "DM_USB2CAN\\DM_USB2CAN.dll",
+              "ToolTip": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "DM_USB2CAN\\DM_USB2CAN.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-06-29T13:52:45.938Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DM_USB2CAN.dll",
+              "DocumentMoniker": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.dll",
+              "RelativeDocumentMoniker": "DM_USB2CAN\\DM_USB2CAN.dll",
+              "ToolTip": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.dll",
+              "RelativeToolTip": "DM_USB2CAN\\DM_USB2CAN.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-06-29T13:52:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DM_USB2CAN.csproj",
+              "DocumentMoniker": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.csproj",
+              "RelativeDocumentMoniker": "DM_USB2CAN\\DM_USB2CAN.csproj",
+              "ToolTip": "D:\\RoboticArm\\Control\\motor-control-routine-master\\motor-control-routine-master\\C#\u4F8B\u7A0B\\DM_USB2CAN\\DM_USB2CAN.csproj",
+              "RelativeToolTip": "DM_USB2CAN\\DM_USB2CAN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T13:52:39.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
